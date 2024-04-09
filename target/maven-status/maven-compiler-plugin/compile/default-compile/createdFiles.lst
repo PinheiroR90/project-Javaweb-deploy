@@ -1,0 +1,4 @@
+com/example/projetojavaweb/ProjetojavawebApplication.class
+com/example/projetojavaweb/repositories/UserRepository.class
+com/example/projetojavaweb/entities/User.class
+com/example/projetojavaweb/controllers/UserController.class
